@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/element-fragment-guest">element-fragment-guest</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/element-fragment-guest"><strong>https://abraxaslabs.tech/research/element-fragment-guest</strong></a>
+</p>
+
 
 # element-fragment-guest
 
